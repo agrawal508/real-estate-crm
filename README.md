@@ -17,7 +17,8 @@ Follow these steps to run the project locally 👇
 
 1. **Clone this repository:**
    ```bash
-   git clone <your-github-repo-link>
+   git clone <
+   'https://github.com/agrawal508/real-estate-crm.git'>
 
 2. **Navigate to the project folder:**
     cd real-estate-crm

@@ -1,3 +1,37 @@
+# 🏠 Real Estate CRM - React Setup
+
+## 📌 Description
+This project is the initial setup for the Real Estate CRM frontend.  
+It was created using **Create React App** as part of the **Zeya Solutions SaaS Developer Internship (Task One)**.  
+The purpose of this task is to learn the React environment setup, npm basics, and local development workflow.
+
+## 🧰 Tools & Versions
+- **Node.js:** v20.11.1 (or your version)
+- **npm:** v10.9.3 (or your version)
+- **React:** v18.2.0
+- **Code Editor:** VS Code
+
+
+## ⚙️ Setup Instructions
+Follow these steps to run the project locally 👇  
+
+1. **Clone this repository:**
+   ```bash
+   git clone <your-github-repo-link>
+
+2. **Navigate to the project folder:**
+    cd real-estate-crm
+
+3. **Install dependencies:**
+    npm install
+
+4. **Start the local development server:**
+    npm start
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -29,6 +29,29 @@ Follow these steps to run the project locally 👇
 4. **Start the local development server:**
     npm start
 
+⚠️ Challenges Faced
+
+Installing Node.js and npm correctly for the first time
+
+Understanding how dependencies are managed in React
+
+Slight delay during the first compilation process
+
+
+💡  What I Learned
+
+Setting up a React environment using create-react-app
+
+Understanding npm and package management
+
+Running a local React development server
+
+Exploring the basic folder structure of a React project
+
+
+🎯 Outcome
+
+Successfully created and ran a React app locally, understanding the basics of React setup and npm commands — forming the foundation for upcoming CRM development tasks.
 
 
 
